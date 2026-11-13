@@ -75,16 +75,16 @@ export default function Home() {
       <div className="wash" /><div className="petals">✿　♡　✦　୨୧　✿</div>
       <section className="phone">
         <header className="hero">
-          <div className="portrait"><img src="/character.png" alt="AIXI STORE character" /></div>
+          <div className="portrait"><img src="/character.png" alt="XIYU STORE character" /></div>
           <div className="heroShade" />
-          <div className="badge">AX · AIXI STORE</div>
+          <div className="badge">XS · XIYU STORE</div>
         </header>
 
         <section className="content">
           <p className="eyebrow">CUSTOMER LOVE</p>
-          <h1>Testimoni AIXI</h1>
+          <h1>Testimoni XIYU</h1>
           <div className="divider"><span>♡</span><i /><span>✦</span><i /><span>♡</span></div>
-          <p className="sub">Kumpulan pengalaman & bukti dari pelanggan AIXI STORE</p>
+          <p className="sub">Kumpulan pengalaman & bukti dari pelanggan XIYU STORE</p>
 
           <div className="musicGrid">
             {MUSIC.map((m, i) => (
@@ -107,7 +107,7 @@ export default function Home() {
               </article>
             ))}
           </div>
-          <footer>© 2026 AIXI STORE · MADE WITH ♡</footer>
+          <footer>© 2026 XIYU STORE · MADE WITH ♡</footer>
         </section>
       </section>
 
